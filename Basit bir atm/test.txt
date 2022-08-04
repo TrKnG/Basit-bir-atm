@@ -1,0 +1,4 @@
+Musteri ismi: Enes Aydin
+Musteri numarasi: 180202042
+Hesabin Doviz Cinsi: TL
+Musteri bakiyesi: 15
